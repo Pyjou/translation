@@ -1,0 +1,181 @@
+{
+  "COMMON": {
+    "ACTIONS": {
+      "APPLY": "Appliquer",
+      "COPY": "Copier",
+      "CREATE": "Créer",
+      "DELETE": "Supprimer",
+      "DUPLICATE": "Dupliquer",
+      "EDIT": "Editer",
+      "HIDE": "Cacher",
+      "REMOVE": "Enlever",
+      "UPDATE": "Mettre à jour",
+      "VIEW": "Voir"
+    },
+    "AI": {
+      "AI_FLASHCARDS": "IA Flashcards"
+    },
+    "GENERAL": {
+      "FLASHCARD_one": "Flashcard",
+      "FLASHCARD_other": "Flashcards",
+      "NOTE_one": "note",
+      "NOTE_other": "notes"
+    },
+    "NEW": "Nouveau"
+  },
+  "COMMUNITY": {
+    "ARTICLES": {
+      "ERRORS": {
+        "SHARING": {
+          "NO_CONTENT": {
+            "SRC": "Le document que vous essayez de partager semble vide. Merci d'ajouter au moins {{minimum}} rems, puis ressayez.",
+            "SUBDOCUMENT": "Un de vos sous-documents semble vide. Il ne peut être publier tant qu'il n'a pas au moins {{minimum}} rems."
+          },
+          "NO_TITLE": {
+            "SRC": "Le document que vous essayez de partager n'a pas de titre. Vous devez en ajouter un avant de le publier.",
+            "SUBDOCUMENT": "Un de vos sous-documents n'a pas de titre. Il ne peut-être publier sans titre."
+          }
+        }
+      }
+    }
+  },
+  "DOCUMENT": {
+    "DIALOGS": {
+      "DELETE_ALSO_UNSHARE": "Voulez-vous arrêter de partager ce document aussi ?",
+      "DELETE_CONFIRM_DIALOG": "Êtes-vous sûr de supprimer ce document ?",
+      "DELETE_UNSHARE_ERROR": "Une erreur est survenu lors de la suppression du partage du document. Merci de supprimer le partage manuellement.",
+      "DELETE_UNSHARE_OFFLINE_ERROR": "Vous êtes hors-ligne. Merci de supprimer le partage manuellement quand vous serez de nouveau en ligne."
+    },
+    "MENU": {
+      "ADD_NESTED_DOCUMENT": "Ajouter un document imbriquer",
+      "CHANGE_DOCUMENT_STATUS": "Changer le statut du document",
+      "CUSTOMIZE_SPACED_REPETITION": "Personnaliser la répétition d'espace",
+      "DELETE": "Supprimer",
+      "EDIT_MODE": {
+        "READ": "Mode Lecture Seule",
+        "WRITE": "Mode Édition"
+      },
+      "MULTI_SELECTION_MODE": "Sélection multiple de Rems",
+      "MULTI_SELECTION_FOLDER": "Sélection multiple de Dossier/Documents",
+      "CHANGE_FOLDER_ICON": "Changer l'icône du dossier",
+      "CHANGE_DOCUMENT_ICON": "Changer l'icône du document",
+      "EXPORT": "Exporter",
+      "FIND_OR_FILTER": "Chercher ou Filtrer",
+      "FIND_TEXT_REFERENCES": {
+        "DEPRECATION_WARNING": "Cette option est déprécié et il est recommandé d'utiliser cette méthode alternative <keycode /> afin de recherche des référence dans le texte.",
+        "LABEL": "Rechercher des référence dans le texte"
+      },
+      "MARK_AS_DOCUMENT": "Marquer en tant que Document",
+      "MOVE": "Déplacer",
+      "OPEN_IN_ANOTHER_PANE": "Ouvrir dans un autre onglet.",
+      "PIN_TO_SIDEBAR": "Épingler dans la barre latérale",
+      "PRINT": "Imprimer",
+      "RENAME": "Renommer",
+      "SHOW_STUDY_BUTTON": "Afficher le bouton d'Étude",
+      "STATS": "Statistique",
+      "UNDO": "Annuler",
+      "UNPIN_FROM_SIDEBAR": "Désépingler de la barre latérale",
+      "UNSHARE_DOCUMENT": "Supprimer le partage du document",
+      "VIEW_GRAPH": "Voir le graphique local",
+      "VIEW_TRASH": "Voir la Corbeille"
+    },
+    "PUBLISH_STATUS": {
+      "DRAFT": "Brouillon",
+      "FINISHED": "Terminer",
+      "PINNED": "Épingler"
+    }
+  },
+  "FILE_UPLOADING": {
+    "CACHED_INFO": "Ce fichier est caché pour l'affichage hors-ligne et il n'a peut-être pas encore était envoyé en ligne.",
+    "LOCAL_ONLY_WARN": "Ce fichier n'a pas été envoyé correctement et il sera enregistrer de manière temporaire sur votre ordinateur.",
+    "LOCAL_WAITING_FOR_UPLOAD_WARN": "Ce fichier n'a pas encore été envoyé, il sera sauvegarder sur votre ordinateur.",
+    "NOT_FOUND": "Impossible de trouver ce fichier.",
+    "NOT_YET_UPLOADED": "Ce fichier n'a pas encore été envoyé.",
+    "SNIPPING": {
+      "NON_PDF": "Veuillez essayer un autre outil d'extraction/collage ou contactez le service d'assistance.",
+      "PDF": "Merci de contacter le support."
+    }
+  },
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Langue",
+    "TRANSLATION_INFO_SETTINGS": "La traduction est encore en cours. Vous allez rencontrer un mix entre l'anglais et votre langue sélectionnée.<br>Vous pouvez contribuer en faisait une relecture via ce <guideLink>tutoriel</guideLink> et vous pouvez utiliser notre <editorLink>éditeur en ligne</editorLink> pour nous aider dans la traduction."
+  },
+  "NOTIFICATIONS": {
+    "ARTICLE_DEFAULT": "Votre document",
+    "ARTICLE_VIEWS": {
+      "BODY_1": "Votre document",
+      "BODY_2": "a obtenu {{viewCount, number}} vues"
+    },
+    "DOCUMENT_ADDED_TO_GROUP": {
+      "BODY": "a été ajouté à"
+    },
+    "EMPTY_STATE_MESSAGE": "Vous serez au courant ! Vous recevrez des notifications lorsque quelqu'un interagira avec le contenu partagé sur votre <profileLink>profil</profileLink>.",
+    "EMPTY_STATE_TITLE": "Vous n'avez aucune notification récente.",
+    "GROUP_DEFAULT": "Votre groupe",
+    "IMPORT": {
+      "BODY": "Quelqu'un a importé votre document"
+    },
+    "INVITE": {
+      "ACCEPT": "Accepter l'invitation",
+      "BODY": "a été invité à joindre",
+      "REJECT": "Refuser"
+    },
+    "NEW_COMMENT": {
+      "BODY": "commenté le",
+      "BODY_ARTICLE": "a commenté votre document",
+      "BODY_COMMENT": "a répondu à votre commentaire"
+    },
+    "NEW_FOLLOWER": {
+      "BODY": "vous suit"
+    },
+    "NEW_LIKE": {
+      "BODY": "a aimé"
+    },
+    "POPUP_TITLE": "Notifications récentes"
+  },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "PAGE_0": {
+          "TITLE": "Créer un dossier"
+        },
+        "PAGE_1": {
+          "TITLE": "Ajouter une puce"
+        },
+        "PAGE_2": {
+          "TITLE": "Créer une Flashcard"
+        },
+        "PAGE_3": {
+          "TITLE": "Structure des notes à l'aide de la tabulation"
+        }
+      }
+    }
+  },
+  "PAGES": {
+    "ALL_NOTES": {
+      "SORT": {
+        "ASCENDING": "A -> Z",
+        "BY_CREATION_TIME": "Par date de création",
+        "BY_MODIFICATION": "Par modification",
+        "BY_TITLE": "Par titre",
+        "DESCENDING": "Z -> A",
+        "OLDEST_CREATION_FIRST": "La création la plus ancienne en premier",
+        "OLDEST_FIRST": "Le plus vieux d'abord",
+        "RECENTLY_CREATED": "Récemment créé",
+        "RECENTLY_MODIFIED": "Récemment modifié"
+      },
+      "TITLE": "Toutes les notes"
+    }
+  },
+  "PDF": {
+    "ADD_ANNOTATIONS": {
+      "AI_DROPDOWN": {
+        "BASIC_CARDS": "Cartes basiques",
+        "BASIC_CARDS_TOOLTIP": "Générer des flashcards de base (questions-réponses) à partir du texte sélectionné.",
+        "CLOZE_CARDS": "Cartes à trous (à remplir)",
+        "CLOZE_CARDS_TOOLTIP": "Générer des flashcards à partir du texte sélectionné.",
+        "CONCEPT_CARDS": "Cartes de concept"
+      }
+    }
+  }
+}
